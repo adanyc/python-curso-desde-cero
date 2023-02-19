@@ -1,0 +1,1 @@
+print("Tu bebida favorita es: \"" + input("Lugar favorito: ") + " "+ input("Tu sabor favorito: ") + "\"")
